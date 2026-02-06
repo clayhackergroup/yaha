@@ -111,7 +111,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/spideyze/yaha.git
+git clone https://github.com/clayhackergroup/yaha.git
 cd yaha
 
 # Install dependencies
