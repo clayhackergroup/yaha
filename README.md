@@ -409,13 +409,13 @@ We welcome contributions! To contribute:
 
 - **Instagram**: [@exp1oit](https://instagram.com/exp1oit)
 - **Telegram**: [@spideyze](https://t.me/spideyze), [@h4cker.in](https://t.me/h4cker.in)
-- **Twitter**: [@yaha_scanner](https://twitter.com/yaha_scanner)
+- **Twitter**: [soon](https://twitter.com/yaha_scanner)
 
 ### Donations
 
 If YAHA has been helpful, consider supporting development:
 
-**Bitcoin**: `1A1z7agoat2rwCC5Kj1tN7SbLFy5g516b2`
+**Bitcoin**: `1Dd5vBxnvcxx26tTg9GKib6HQ6HoYUkbip`
 
 All donations support:
 - Feature development
