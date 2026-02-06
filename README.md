@@ -407,9 +407,9 @@ We welcome contributions! To contribute:
 
 ### Follow Us
 
-- **Instagram**: [@exp1oit](https://instagram.com/exp1oit)
-- **Telegram**: [@spideyze](https://t.me/spideyze), [@h4cker.in](https://t.me/h4cker.in)
-- **Twitter**: [soon](https://twitter.com/yaha_scanner)
+- **Instagram**: [@exp1oit](https://instagram.com/exp1oit), [@h4cker.in](https://t.me/h4cker.in)
+- **Telegram**: [@spideyze](https://t.me/spideyze) 
+
 
 ### Donations
 
